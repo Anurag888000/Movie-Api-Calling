@@ -1,0 +1,2 @@
+body{box-sizing:border-box;margin:0;padding:0}.App{font-family:Segoe UI,sans-serif;padding:2rem;text-align:center}.movie-grid{grid-gap:1rem;display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));margin-top:2rem}.movie-card{background-color:#f4f4f4;border-radius:8px;box-shadow:0 2px 8px #0000001a;padding:1rem}
+/*# sourceMappingURL=main.3d386d5e.css.map*/
